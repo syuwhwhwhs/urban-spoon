@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <title>RoXeT BOT — XR logo reference</title>
+  <desc>Use assets/roxet-xr-logo.png for the XR logo crop supplied by the project owner.</desc>
+  <rect width="1024" height="1024" rx="150" fill="#050914"/>
+  <image href="roxet-xr-logo.png" width="1024" height="1024" preserveAspectRatio="xMidYMid slice"/>
+</svg>
